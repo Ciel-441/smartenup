@@ -151,6 +151,8 @@ Status: All test cases passed successfully.
 
 ## 7. Credits and License
 
-Created by ciel 441 (GitHub: [Ciel-441](https://github.com/Ciel-441)).
+Created by **ciel 441**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ciel--441-181717?style=flat&logo=github)](https://github.com/Ciel-441)
 
 Released under the MIT License. Free for open-source and commercial use.
